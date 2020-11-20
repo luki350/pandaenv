@@ -1,0 +1,10 @@
+commit 5c0e569430c494fda1eace267e6b3af7dcadcf73
+tree c8b91f262c56326e98a2fd6bc72f585fa2dcc670
+parent 4c11cb5d5726d2f1e20f3387e538dc5a29349e39
+author luki350 <luki350@gmail.com> 2020-11-04 20:01:02 +0000
+committer luki350 <luki350@gmail.com> 2020-11-04 20:01:02 +0000
+
+    poprawka pom
+
+
+:100644 100644 6f4ab3cf779f7f0f36c00ad6df6518040a395c6d 461a4de5f90b8f6911b09c277b902bde518d97d2 M	pom.xml

@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2020-11-04 18:02:49.815 UTC</timestamp>
+  <md5sum>92e130b5eab650bf27831fd2a0d7ad89</md5sum>
+  <fileName>Credential id=d36ab8f5-56e5-4044-af83-6f8a25acc8fc name=luki350/******</fileName>
+  <usages>
+    <entry>
+      <string>CodePull</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

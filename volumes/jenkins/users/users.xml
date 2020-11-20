@@ -1,0 +1,18 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.model.UserIdMapper>
+  <version>1</version>
+  <idToDirectoryNameMap class="concurrent-hash-map">
+    <entry>
+      <string>panda</string>
+      <string>panda_2296045901876987404</string>
+    </entry>
+    <entry>
+      <string>test</string>
+      <string>test_5368203265136553023</string>
+    </entry>
+    <entry>
+      <string>luki350</string>
+      <string>luki350_1128550731420819607</string>
+    </entry>
+  </idToDirectoryNameMap>
+</hudson.model.UserIdMapper>

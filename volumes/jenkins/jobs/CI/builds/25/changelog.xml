@@ -1,0 +1,18 @@
+commit f128e5bda7948a3dcb3d1a182d2fa260ee9637bc
+tree b9f2617cb92c2f558a2f64851ac49a882a5a985c
+parent 7f53af8b3bbad07c881fa66692274f977bac62c2
+author luki350 <luki350@gmail.com> 2020-11-09 18:47:14 +0000
+committer luki350 <luki350@gmail.com> 2020-11-09 18:47:14 +0000
+
+    test
+
+
+:100644 100644 7456a5fd5820c5d6546ef9477e0f20668349759f 7be9c7d389bfca559cb756024db9d9c1f66b27db M	src/test/java/pl/pandait/panda/PandaApplicationSeleniumTest.java
+:100644 100644 1b8907c7cd2919a210be2b586cd507349cb470cd 6ff206e983c248be681d846e92a3358d28f230d0 M	target/panda-0.0.2-SNAPSHOT.jar
+:100644 100644 5aee44d447ba12422e048a17ded0f64a8a1b89da f56a234d3e1b93216491e45f512dc0875b6f8588 M	target/panda-0.0.2-SNAPSHOT.jar.original
+:100644 100644 54304b8c8bb85f064350c023e4e4404b3c6b210c 103534a7dc286d5092b548ef5c6a478ebdf56c9a M	target/surefire-reports/TEST-pl.pandait.panda.HelloControllerTest.xml
+:100644 000000 619464724d8990765ebc41fa2269df5a2b1419b8 0000000000000000000000000000000000000000 D	target/surefire-reports/TEST-pl.pandait.panda.PandaApplicationSeleniumTest.xml
+:100644 100644 0a1800dee8904997f76745508caf9f7b14e91559 d258af0992e73327761cd00eaf1e3a378498f571 M	target/surefire-reports/TEST-pl.pandait.panda.PandaApplicationTests.xml
+:100644 100644 964dc086f5aca6dd16bd744b0291d31819d27b72 c8a9df43e0445f1d45320aeebc488dbef8e693b7 M	target/surefire-reports/pl.pandait.panda.HelloControllerTest.txt
+:100644 000000 5fffee1ee17baa2984ae6b609c83304f7863ad1c 0000000000000000000000000000000000000000 D	target/surefire-reports/pl.pandait.panda.PandaApplicationSeleniumTest.txt
+:100644 100644 3987d2fa7c1bf9b21ee28c96c23dbc3c0b165641 9d0a9298de088b398980dbe9a8cb17052024e981 M	target/surefire-reports/pl.pandait.panda.PandaApplicationTests.txt

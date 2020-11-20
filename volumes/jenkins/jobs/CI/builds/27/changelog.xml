@@ -1,0 +1,10 @@
+commit 5ab8cb0091fa082c2dfc2ada3ecf614656f56c4d
+tree a0fc31c1e334f8ffdbdb4a2b9f883396760cc80a
+parent f128e5bda7948a3dcb3d1a182d2fa260ee9637bc
+author luki350 <luki350@gmail.com> 2020-11-09 19:38:29 +0000
+committer luki350 <luki350@gmail.com> 2020-11-09 19:38:29 +0000
+
+    zmiana dns na ip
+
+
+:100644 100644 7be9c7d389bfca559cb756024db9d9c1f66b27db 7456a5fd5820c5d6546ef9477e0f20668349759f M	src/test/java/pl/pandait/panda/PandaApplicationSeleniumTest.java

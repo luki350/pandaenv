@@ -1,0 +1,10 @@
+commit 866ec17279c92cbd735d9be4a31759350c64b0f8
+tree a28196af3f7bdfc0e632b7ec78b34fd9adc63d99
+parent 2b36b3670a431ef0733ab96342cc7a66da5dc1b7
+author luki350 <luki350@gmail.com> 2020-11-09 19:55:15 +0000
+committer luki350 <luki350@gmail.com> 2020-11-09 19:55:15 +0000
+
+    test
+
+
+:100644 100644 7be9c7d389bfca559cb756024db9d9c1f66b27db cfcb77da43bd72401ef75e94d0008da499aa3d3f M	src/test/java/pl/pandait/panda/PandaApplicationSeleniumTest.java

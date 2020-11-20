@@ -1,0 +1,10 @@
+commit 9eb05ee55801bb07b94e8f54f19dee21b4e4be8b
+tree eca0553e32bddb464b3821a5815003d50da9cfc3
+parent d06c4d8ec96930c68b5b1c850acae69f0c15863d
+author luki350 <luki350@gmail.com> 2020-11-20 18:43:48 +0000
+committer luki350 <luki350@gmail.com> 2020-11-20 18:43:48 +0000
+
+    zmiana nazwy kontenera przy testach selenium
+
+
+:100644 100644 98c349ebb080737d43e791719a190871359ced39 3e66c97a00e4fd873ce445bfd4ccd0319913e983 M	src/test/java/pl/pandait/panda/PandaApplicationSeleniumTest.java
